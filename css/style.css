@@ -988,7 +988,7 @@ text-align: center;
 input[type="text"],
 input[type="email"] {
     display: inline-block;
-    width: 700px;
+    width: 650px;
     border: 1px solid #292929;
     background-color: #fff;
 }
@@ -999,7 +999,7 @@ label{
 }
 
 textarea {
-    width: 700px;
+    width: 650px;
     height: 400px;
     border: 1px solid #292929;
     background-color: #fff;
